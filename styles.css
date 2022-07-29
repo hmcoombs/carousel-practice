@@ -1,0 +1,23 @@
+.carousel .carousel-indicators li {
+    width:15px;
+    height:15px;
+    border-radius: 50%;
+    border:2px solid yellow;
+    margin:10px;
+}
+
+.carousel {
+    position:relative;
+}
+
+.carousel-item {
+    max-height:700px;
+    overflow:hidden;
+}
+
+.carousel-caption {
+    background-color:black;
+    opacity:0.7;
+    border-radius:10px;
+    padding:10px;
+}
